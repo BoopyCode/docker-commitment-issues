@@ -1,0 +1,2 @@
+# No Python dependencies - it's bash!
+# Just needs Docker installed and your inability to commit
